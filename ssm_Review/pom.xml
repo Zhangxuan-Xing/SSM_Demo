@@ -20,7 +20,7 @@
     <!--引入项目依赖的jar包 -->
     <dependencies>
 
-        <!--引入pageHelper分页插件 -->
+        <!--引入pageHelper分页 -->
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper</artifactId>
